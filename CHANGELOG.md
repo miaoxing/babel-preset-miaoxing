@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.2...babel-preset-miaoxing@0.1.3) (2020-08-12)
+
+
+### Bug Fixes
+
+* 移除 modules: false, 解决 jest 测试 Cannot use import statement outside a module 错误 ([3d2fc61](https://github.com/miaoxing/babel-preset-miaoxing/commit/3d2fc619f36f5e593950379a19d1ae56704f2569))
+
 ## [0.1.2](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.1...babel-preset-miaoxing@0.1.2) (2020-08-12)
 
 
