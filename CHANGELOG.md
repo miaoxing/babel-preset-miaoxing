@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.1...babel-preset-miaoxing@0.1.2) (2020-08-12)
+
+
+### Bug Fixes
+
+* **deps:** 增加 react-hot-loader 依赖 ([3cf0ca2](https://github.com/miaoxing/babel-preset-miaoxing/commit/3cf0ca2e64aea77bd959d05aeed7730e03a049b5))
+
 ## [0.1.1](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.0...babel-preset-miaoxing@0.1.1) (2020-08-12)
 
 
