@@ -1,3 +1,11 @@
+## [0.1.4](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.3...babel-preset-miaoxing@0.1.4) (2020-08-14)
+
+
+### Bug Fixes
+
+* **deps:** @emotion/babel-preset-css-prop 依赖 @emotion/core ([f8a1f73](https://github.com/miaoxing/babel-preset-miaoxing/commit/f8a1f73f0bc9e50187e55f2f5febf373be3152a6))
+* **deps:** 增加 @babel/core 依赖 ([292699e](https://github.com/miaoxing/babel-preset-miaoxing/commit/292699e8c659ffa47b0d50ccc96a1aeaaf9ec6a6))
+
 ## [0.1.3](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.2...babel-preset-miaoxing@0.1.3) (2020-08-12)
 
 
