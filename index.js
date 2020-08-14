@@ -6,9 +6,9 @@ module.exports = function() {
         {
           'useBuiltIns': 'entry',
           'corejs': {
-            'version': 3
-          }
-        }
+            'version': 3,
+          },
+        },
       ],
       '@babel/preset-react',
       '@emotion/babel-preset-css-prop',
@@ -46,6 +46,6 @@ module.exports = function() {
         'libraryDirectory': '',
         'camel2DashComponentName': false,
       }, '@mxjs/bootstrap'],
-    ]
+    ],
   };
 };
