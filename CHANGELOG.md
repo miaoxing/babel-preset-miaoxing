@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.4...babel-preset-miaoxing@0.1.5) (2021-03-12)
+
+
+### Bug Fixes
+
+* 更新前端包依赖 ([1721b9c](https://github.com/miaoxing/babel-preset-miaoxing/commit/1721b9cc4d6cbeb70125e6caa50fe258d100241f))
+
 ## [0.1.4](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.3...babel-preset-miaoxing@0.1.4) (2020-08-14)
 
 
