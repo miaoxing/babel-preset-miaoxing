@@ -35,7 +35,6 @@ module.exports = function() {
       '@babel/plugin-proposal-object-rest-spread',
 
       // Others
-      'react-hot-loader/babel',
       ['import', {
         'libraryName': 'antd',
         'libraryDirectory': 'es',
