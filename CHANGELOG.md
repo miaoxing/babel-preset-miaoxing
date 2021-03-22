@@ -1,3 +1,15 @@
+# [0.2.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.5...babel-preset-miaoxing@0.2.0) (2021-03-22)
+
+
+### Code Refactoring
+
+* 移除 `react-hot-loader` 相关功能 ([55ae621](https://github.com/miaoxing/babel-preset-miaoxing/commit/55ae621000b1cb78168e1b504475f2b1f9d1f1c4))
+
+
+### BREAKING CHANGES
+
+* 移除 `react-hot-loader` 相关功能
+
 ## [0.1.5](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.4...babel-preset-miaoxing@0.1.5) (2021-03-12)
 
 
