@@ -1,3 +1,15 @@
+# [0.3.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.2.0...babel-preset-miaoxing@0.3.0) (2021-04-27)
+
+
+### Features
+
+* 升级 `emotion` 到 11 ([24dd4e8](https://github.com/miaoxing/babel-preset-miaoxing/commit/24dd4e82a30280e5d5c687a09735f9f48cd3c48d))
+
+
+### BREAKING CHANGES
+
+* 升级 `emotion` 到 11
+
 # [0.2.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.5...babel-preset-miaoxing@0.2.0) (2021-03-22)
 
 
