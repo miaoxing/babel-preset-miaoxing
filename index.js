@@ -18,6 +18,9 @@ module.exports = function() {
       // NOTE: import 需在 auto-import-name 之前才正常加载
       'auto-import-name',
 
+      // 使类库中不用加上 regenerator-runtime
+      '@babel/plugin-transform-runtime',
+
       // Stage 1
       '@babel/plugin-proposal-export-default-from',
       '@babel/plugin-proposal-logical-assignment-operators',
