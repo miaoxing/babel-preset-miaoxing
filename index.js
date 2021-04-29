@@ -1,4 +1,4 @@
-module.exports = function() {
+module.exports = function () {
   return {
     presets: [
       [
@@ -18,8 +18,13 @@ module.exports = function() {
       // NOTE: import 需在 auto-import-name 之前才正常加载
       'auto-import-name',
 
-      // 使类库中不用加上 regenerator-runtime
-      '@babel/plugin-transform-runtime',
+      // 使类库中不用加上 corejs 和 regenerator-runtime
+      [
+        '@babel/plugin-transform-runtime',
+        {
+          'corejs': 3,
+        },
+      ],
 
       // Stage 1
       '@babel/plugin-proposal-export-default-from',
