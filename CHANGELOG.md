@@ -1,3 +1,22 @@
+# [0.4.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.3.0...babel-preset-miaoxing@0.4.0) (2021-05-11)
+
+
+### Bug Fixes
+
+* **babel-preset-miaoxing:** 移除 `useBuiltIns`，由项目自行指定 ([b907c29](https://github.com/miaoxing/babel-preset-miaoxing/commit/b907c29b9d322ddd7cdf7e2b963faa365811bf4b))
+* 增加 `@emotion/babel-preset-css-prop` 所需的 `@emotion/react` ([51b347f](https://github.com/miaoxing/babel-preset-miaoxing/commit/51b347fa1d06d91207c41042716b40676a0a4290))
+
+
+### Features
+
+* 增加 `@babel/plugin-transform-runtime`，使类库中不用加上 regenerator-runtime ([79b6d34](https://github.com/miaoxing/babel-preset-miaoxing/commit/79b6d34c8575b13b1a1dc6385c9861665500744b))
+* 增加 `@babel/plugin-transform-runtime`，使类库中不用加上 regenerator-runtime ([508320e](https://github.com/miaoxing/babel-preset-miaoxing/commit/508320e004ca2e9ba6c48c2b23311eb956c72c13))
+
+
+### BREAKING CHANGES
+
+* **babel-preset-miaoxing:** `babel-preset-miaoxing` 移除 `useBuiltIns`，由项目自行指定
+
 # [0.3.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.2.0...babel-preset-miaoxing@0.3.0) (2021-04-27)
 
 
