@@ -2,8 +2,10 @@ module.exports = function () {
   return {
     presets: [
       '@babel/preset-env',
-      '@babel/preset-react',
-      '@emotion/babel-preset-css-prop',
+      [
+        '@babel/preset-react',
+        {'runtime': 'automatic', 'importSource': '@emotion/react'},
+      ],
     ],
     plugins: [
       // NOTE: preset 里是反序
@@ -35,6 +37,8 @@ module.exports = function () {
       '@babel/plugin-proposal-object-rest-spread',
 
       // Others
+      '@emotion/babel-plugin',
+
       ['import', {
         'libraryName': 'antd',
         'libraryDirectory': 'es',
