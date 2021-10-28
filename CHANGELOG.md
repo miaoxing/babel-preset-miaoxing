@@ -1,3 +1,15 @@
+# [0.5.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.4.0...babel-preset-miaoxing@0.5.0) (2021-10-28)
+
+
+### Features
+
+* 更新 `@babel/preset-react` 和 `emotion` 支持  `react` 17 ([6289a6f](https://github.com/miaoxing/babel-preset-miaoxing/commit/6289a6f4e0892ca1dc79d6e3978a7f613033dbe6))
+
+
+### BREAKING CHANGES
+
+* 更新 `emotion` 支持  `react` 17
+
 # [0.4.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.3.0...babel-preset-miaoxing@0.4.0) (2021-05-11)
 
 
@@ -9,8 +21,8 @@
 
 ### Features
 
-* 增加 `@babel/plugin-transform-runtime`，使类库中不用加上 regenerator-runtime ([79b6d34](https://github.com/miaoxing/babel-preset-miaoxing/commit/79b6d34c8575b13b1a1dc6385c9861665500744b))
-* 增加 `@babel/plugin-transform-runtime`，使类库中不用加上 regenerator-runtime ([508320e](https://github.com/miaoxing/babel-preset-miaoxing/commit/508320e004ca2e9ba6c48c2b23311eb956c72c13))
+* 增加 `@babel/plugin-transform-runtime`，使类库中不用加上 regenerator-runtime ([b512d36](https://github.com/miaoxing/babel-preset-miaoxing/commit/b512d369306c0c2414d48f7dc69513cf4bfea555))
+* 增加 `@babel/plugin-transform-runtime`，使类库中不用加上 regenerator-runtime ([5463f99](https://github.com/miaoxing/babel-preset-miaoxing/commit/5463f99505422f3b6ef72ce4c0d93481ec156a43))
 
 
 ### BREAKING CHANGES
