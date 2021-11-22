@@ -44,11 +44,6 @@ module.exports = function () {
         'libraryDirectory': 'es',
         'style': true,
       }],
-      ['import', {
-        'libraryName': '@mxjs/bootstrap',
-        'libraryDirectory': '',
-        'camel2DashComponentName': false,
-      }, '@mxjs/bootstrap'],
     ],
   };
 };
