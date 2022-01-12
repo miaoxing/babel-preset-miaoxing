@@ -1,3 +1,15 @@
+# [0.6.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.5.0...babel-preset-miaoxing@0.6.0) (2022-01-12)
+
+
+### Code Refactoring
+
+* **babel-preset-miaoxing:** 移除 `@mxjs/bootstrap` 自动加载 ([49bbb1c](https://github.com/miaoxing/babel-preset-miaoxing/commit/49bbb1c0bc66d10463f5802d3fe70b5958ffdbc9))
+
+
+### BREAKING CHANGES
+
+* **babel-preset-miaoxing:** 移除 `@mxjs/bootstrap` 自动加载
+
 # [0.5.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.4.0...babel-preset-miaoxing@0.5.0) (2021-10-28)
 
 
