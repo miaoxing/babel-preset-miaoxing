@@ -9,8 +9,6 @@ module.exports = function () {
     ],
     plugins: [
       // NOTE: preset 里是反序
-      // NOTE: import 需在 auto-import-name 之前才正常加载
-      'auto-import-name',
 
       // 使类库中不用加上 corejs 和 regenerator-runtime
       [
