@@ -1,3 +1,10 @@
+## [0.6.1](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.6.0...babel-preset-miaoxing@0.6.1) (2022-07-01)
+
+
+### Features
+
+* **babel-preset-miaoxing:** 移除 `babel-plugin-auto-import-name` ([6d91406](https://github.com/miaoxing/babel-preset-miaoxing/commit/6d9140657a85b8c90348b7b4e065f1485144c527))
+
 # [0.6.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.5.0...babel-preset-miaoxing@0.6.0) (2022-01-12)
 
 
