@@ -36,12 +36,6 @@ module.exports = function () {
 
       // Others
       '@emotion/babel-plugin',
-
-      ['import', {
-        'libraryName': 'antd',
-        'libraryDirectory': 'es',
-        'style': true,
-      }],
     ],
   };
 };
