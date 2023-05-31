@@ -1,11 +1,28 @@
-## [0.6.1](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.6.0...babel-preset-miaoxing@0.6.1) (2022-07-01)
+# [0.7.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.6.1...v0.7.0) (2023-05-31)
+
+
+### Bug Fixes
+
+* 增加 `@babel/preset-env` `7.20` 不包含的包 ([4b152fd](https://github.com/miaoxing/babel-preset-miaoxing/commit/4b152fd504eb8ef2f8ddfe91a4180e8d23d91f2c))
+
+
+### Code Refactoring
+
+* **babel-preset-miaoxing, antd5:** 移除 `babel-plugin-import`，`antd` v5 不再需要导入 ([355ea36](https://github.com/miaoxing/babel-preset-miaoxing/commit/355ea36ec744a29527bd44ec709bd537a19610e7))
+
+
+### BREAKING CHANGES
+
+* **babel-preset-miaoxing, antd5:** 移除 `babel-plugin-import`，`antd` v5 不再需要导入
+
+## [0.6.1](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.6.0...v0.6.1) (2022-07-01)
 
 
 ### Features
 
 * **babel-preset-miaoxing:** 移除 `babel-plugin-auto-import-name` ([6d91406](https://github.com/miaoxing/babel-preset-miaoxing/commit/6d9140657a85b8c90348b7b4e065f1485144c527))
 
-# [0.6.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.5.0...babel-preset-miaoxing@0.6.0) (2022-01-12)
+# [0.6.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.5.0...v0.6.0) (2022-01-12)
 
 
 ### Code Refactoring
@@ -17,7 +34,7 @@
 
 * **babel-preset-miaoxing:** 移除 `@mxjs/bootstrap` 自动加载
 
-# [0.5.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.4.0...babel-preset-miaoxing@0.5.0) (2021-10-28)
+# [0.5.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.4.0...v0.5.0) (2021-10-28)
 
 
 ### Features
@@ -29,7 +46,7 @@
 
 * 更新 `emotion` 支持  `react` 17
 
-# [0.4.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.3.0...babel-preset-miaoxing@0.4.0) (2021-05-11)
+# [0.4.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.3.0...v0.4.0) (2021-05-11)
 
 
 ### Bug Fixes
@@ -48,7 +65,7 @@
 
 * **babel-preset-miaoxing:** `babel-preset-miaoxing` 移除 `useBuiltIns`，由项目自行指定
 
-# [0.3.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.2.0...babel-preset-miaoxing@0.3.0) (2021-04-27)
+# [0.3.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.2.0...v0.3.0) (2021-04-27)
 
 
 ### Features
@@ -60,7 +77,7 @@
 
 * 升级 `emotion` 到 11
 
-# [0.2.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.5...babel-preset-miaoxing@0.2.0) (2021-03-22)
+# [0.2.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.1.5...v0.2.0) (2021-03-22)
 
 
 ### Code Refactoring
@@ -72,14 +89,14 @@
 
 * 移除 `react-hot-loader` 相关功能
 
-## [0.1.5](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.4...babel-preset-miaoxing@0.1.5) (2021-03-12)
+## [0.1.5](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.1.4...v0.1.5) (2021-03-12)
 
 
 ### Bug Fixes
 
 * 更新前端包依赖 ([1721b9c](https://github.com/miaoxing/babel-preset-miaoxing/commit/1721b9cc4d6cbeb70125e6caa50fe258d100241f))
 
-## [0.1.4](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.3...babel-preset-miaoxing@0.1.4) (2020-08-14)
+## [0.1.4](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.1.3...v0.1.4) (2020-08-14)
 
 
 ### Bug Fixes
@@ -87,21 +104,21 @@
 * **deps:** @emotion/babel-preset-css-prop 依赖 @emotion/core ([f8a1f73](https://github.com/miaoxing/babel-preset-miaoxing/commit/f8a1f73f0bc9e50187e55f2f5febf373be3152a6))
 * **deps:** 增加 @babel/core 依赖 ([292699e](https://github.com/miaoxing/babel-preset-miaoxing/commit/292699e8c659ffa47b0d50ccc96a1aeaaf9ec6a6))
 
-## [0.1.3](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.2...babel-preset-miaoxing@0.1.3) (2020-08-12)
+## [0.1.3](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.1.2...v0.1.3) (2020-08-12)
 
 
 ### Bug Fixes
 
 * 移除 modules: false, 解决 jest 测试 Cannot use import statement outside a module 错误 ([3d2fc61](https://github.com/miaoxing/babel-preset-miaoxing/commit/3d2fc619f36f5e593950379a19d1ae56704f2569))
 
-## [0.1.2](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.1...babel-preset-miaoxing@0.1.2) (2020-08-12)
+## [0.1.2](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.1.1...v0.1.2) (2020-08-12)
 
 
 ### Bug Fixes
 
 * **deps:** 增加 react-hot-loader 依赖 ([3cf0ca2](https://github.com/miaoxing/babel-preset-miaoxing/commit/3cf0ca2e64aea77bd959d05aeed7730e03a049b5))
 
-## [0.1.1](https://github.com/miaoxing/babel-preset-miaoxing/compare/babel-preset-miaoxing@0.1.0...babel-preset-miaoxing@0.1.1) (2020-08-12)
+## [0.1.1](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.1.0...v0.1.1) (2020-08-12)
 
 
 ### Bug Fixes
