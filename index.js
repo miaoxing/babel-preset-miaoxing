@@ -18,12 +18,6 @@ module.exports = function () {
         },
       ],
 
-      // Stage 1
-      '@babel/plugin-proposal-export-default-from',
-
-      // Stage 2
-      ['@babel/plugin-proposal-decorators', {'legacy': true}],
-
       // Stage 3
       '@babel/plugin-proposal-class-properties',
 
