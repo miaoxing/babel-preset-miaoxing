@@ -24,7 +24,6 @@ module.exports = function () {
       // Stage 4
       '@babel/plugin-proposal-logical-assignment-operators',
       '@babel/plugin-proposal-optional-chaining',
-      '@babel/plugin-syntax-dynamic-import',
       '@babel/plugin-proposal-export-namespace-from',
       '@babel/plugin-proposal-object-rest-spread',
 
