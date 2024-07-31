@@ -1,3 +1,21 @@
+# [0.8.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.7.0...v0.8.0) (2024-07-31)
+
+
+### Code Refactoring
+
+* **babel-preset-miaoxing:** 移除已不再使用的 `plugin-proposal-export-default-from` 和 `plugin-proposal-decorators` 插件 ([5eaa8af](https://github.com/miaoxing/babel-preset-miaoxing/commit/5eaa8afef1045a20acc71f17f4c5b292399e31da))
+
+
+### Features
+
+* **babel-preset-miaoxing:** 增加 `core-js` 依赖 ([c858e7e](https://github.com/miaoxing/babel-preset-miaoxing/commit/c858e7eafbdbbb874b6ce6aaf848040db335157c))
+* **babel-preset-miaoxing:** 更新 `@babel/runtime-corejs3` 以支持 `Promise.withResolvers` ([a3297ba](https://github.com/miaoxing/babel-preset-miaoxing/commit/a3297ba46b842934420a3b63910b821039fb1aa1))
+
+
+### BREAKING CHANGES
+
+* **babel-preset-miaoxing:** 移除已不再使用的 `plugin-proposal-export-default-from` 和 `plugin-proposal-decorators` 插件
+
 # [0.7.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.6.1...v0.7.0) (2023-05-31)
 
 
