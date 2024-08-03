@@ -1,3 +1,10 @@
+## [0.8.1](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.8.0...v0.8.1) (2024-08-03)
+
+
+### Features
+
+* **babel-preset-miaoxing:** 更新 `emotion` 以适配最新生成的类名 ([77bbdaf](https://github.com/miaoxing/babel-preset-miaoxing/commit/77bbdafb4f6d8ee47eb489859ed18ff0c23a8b2b))
+
 # [0.8.0](https://github.com/miaoxing/babel-preset-miaoxing/compare/v0.7.0...v0.8.0) (2024-07-31)
 
 
